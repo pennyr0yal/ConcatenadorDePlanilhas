@@ -17,7 +17,7 @@ Este programa permite ao usuário **selecionar múltiplos arquivos** de uma past
 ## Como Usar
 
 1. Execute o arquivo .bat na pasta principal. O programa instalará o venv e as bibliotecas necessárias.
-2. Uma janela irá abrir, selecione a **pasta com os arquivos** desejados.
+2. Uma janela irá abrir, selecione a **pasta com os arquivos** desejados. O repositório inclui uma pasta "Arquivos" para testes.
 3. Use os checkboxes ou o campo de busca para escolher os arquivos a serem concatenados.
 4. Clique em **OK** para iniciar a leitura e concatenação.
 5. O resultado será salvo no mesmo diretório como `saida.csv`.
