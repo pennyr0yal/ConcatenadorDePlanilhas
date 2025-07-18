@@ -1,5 +1,5 @@
 # Concatenador de Planilhas
-Este programa permite ao usuário **selecionar múltiplos arquivos** de uma pasta (com suporte a `.xls`, `.xlsx` e `.csv`) por meio de uma **interface gráfica interativa**. Os arquivos selecionados são lidos e concatenados em um único arquivo chamado `saida.csv`.
+Este programa permite ao usuário **selecionar múltiplos arquivos** de uma pasta (com suporte a `.xlsx` e `.csv`) por meio de uma **interface gráfica interativa**. Os arquivos selecionados são lidos e concatenados em um único arquivo chamado `saida.csv`.
 
 ---
 
@@ -28,7 +28,6 @@ Este programa permite ao usuário **selecionar múltiplos arquivos** de uma past
 |----------|-------------------|
 | `.csv`   | `pandas.read_csv()` com `sep=';'` |
 | `.xlsx`  | `pandas.read_excel()` |
-| `.xls`   | `pandas.read_html()` |
 
 ## Observações
 
